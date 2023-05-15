@@ -17,3 +17,5 @@ The data and code used to analyze the microbiome diversity and thier community d
   The read abundance for microbiome in samples- Column 1: Sample ID  
 -*TelMegiddo - sampling_final.xlsx*:  
   Sampling location description of Tel Megiddo.  
+-*Metasub/MetaSub_taxa_city_proportion.csv*
+  Metasub microbiome data which is used to do the comparsion with microbe in Tel Megiddo.
